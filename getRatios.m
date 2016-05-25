@@ -1,7 +1,7 @@
 function [corrRatio,capsRatioRCBA,capRatioSRA]=getRatios(nRx,nTx,groupSize,riceFactor,alpha)
 
 % Number of samples
-numSamples=1000;
+numSamples=1;
 
 %% Output variables
 subOptCapVectorRCBA=zeros(length(alpha),numSamples);
