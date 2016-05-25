@@ -6,7 +6,7 @@ clear all;
 
 
  %% Parameters
-nRx=12;
+nRx=16;
 
 %case 1: LOS, groupSize=nTx=4
 nTx=4; groupSize=4; riceFactor=10;
